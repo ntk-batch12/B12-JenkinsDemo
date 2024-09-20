@@ -30,6 +30,7 @@ Feature: AutoRegister Page Functionality
     And User clicks login button
     Then System redirects to dashboard page "Dashboard"
     Then System redirects to dashboard pages "Failed"
+     
 
     
     
